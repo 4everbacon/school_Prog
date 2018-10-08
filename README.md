@@ -1,1 +1,2 @@
 # school_Prog
+# sravnenie
